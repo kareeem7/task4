@@ -301,7 +301,7 @@ a {
 .clients > .container > .flow > div {
   float: left;
   overflow: auto;
-  margin: 0 47px;
+  margin: 0 46px;
 }
 .clients > .container > .flow > div > p {
   color: #263640;
